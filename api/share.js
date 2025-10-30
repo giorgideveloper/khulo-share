@@ -11,6 +11,7 @@ export default function handler(req, res) {
     <meta property="og:image" content="${image}" />
     <meta property="og:url" content="${url}" />
     <meta property="og:type" content="website" />
+    <link rel="canonical" href="https://khulo.gov.ge" />
     <title>${title}</title>
   </head>
   <body>
